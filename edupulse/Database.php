@@ -1,7 +1,7 @@
 <?php  
 
 class Database {
-	private $host = "localhost";
+	private $host = "localhost:3307";
 	private $dbName = "EduPulseDB";
 	private $uName = "root";
 	private $pass = "";
